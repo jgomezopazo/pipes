@@ -29,5 +29,8 @@ export class AppComponent {
 
   nombre2 = "jorGe gomeZ";
 
+  video = ""; //reemplazar por el id del video
+
+  activar:boolean = true;
 
 }
